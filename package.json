@@ -21,7 +21,7 @@
     "homebridge": ">=0.4.6"
   },
   "dependencies": {
-    "@abandonware/noble": "git+https://github.com/abandonware/noble.git",
+    "noble": "git+https://github.com/abandonware/noble.git",
     "chalk": ">=1.1.1"
   }
 }
